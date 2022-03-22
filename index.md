@@ -448,8 +448,9 @@ please preview your site before committing, and make sure to run
 {% endcomment %}
 
 <h2 id="setup">Setup</h2>
-
+<p>
   Before attending the session, please download the <a href="https://swcarpentry.github.io/shell-novice/setup.html"> data set </a>
+  </p>
   
 <p>
   To participate in a
